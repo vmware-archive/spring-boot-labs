@@ -1,8 +1,8 @@
 
 # Labs Setup
 
-### Set up the `spring-cloud-services-labs` Repo
-1) Fork the labs repo to your account.  Browse to: https://github.com/pivotal-enablement/spring-cloud-services-labs.  Then fork the repo.
+### Set up the `spring-boot-labs` Repo
+1) Fork the labs repo to your account.  Browse to: https://github.com/pivotal-enablement/spring-boot-labs.  Then fork the repo.
 ![fork](images/fork.png "fork")
 
 2) GitHub displays your new fork. Copy the HTTPS clone URL from your fork.

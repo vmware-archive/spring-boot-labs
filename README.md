@@ -1,6 +1,6 @@
 # spring-boot-labs
 
-Labs written using PCF.
+Labs written using [Spring Boot](http://projects.spring.io/spring-boot/).
 
 Local system [requirements](lab-instructions/requirements.md) or use the [Windows VM](lab-instructions/windows-vm.md)
 
