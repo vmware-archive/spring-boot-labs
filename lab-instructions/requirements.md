@@ -9,15 +9,11 @@
 
 ### Pivotal Cloud Foundry Environment
 
-1. Access to Pivotal Cloud Foundry Environment
-
-1. [Spring Cloud Services](https://network.pivotal.io/products/p-spring-cloud-services) 1.0.0 Tile Installed
-
-1. 6 GB of Memory Quota available
+1. Access to Pivotal Cloud Foundry Environment or [Pivotal Web Services](https://run.pivotal.io/)
 
 ### Local machine requirements
 
-0. 8GB Memory
+0. 4GB Memory
 
 0. Installation of [JDK 1.8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 
