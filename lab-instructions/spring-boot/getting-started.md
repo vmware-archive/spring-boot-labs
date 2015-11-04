@@ -31,7 +31,7 @@ Estimated time: 25 minutes
 
 ***Fill Out the Form Accordingly:***
 
-2) Generate a `Maven Project` with Spring Boot `1.2.6`.
+2) Generate a `Maven Project` with Spring Boot `1.2.7` (if this version is unavailable then get the latest 1.2.X version).
 
 3) In the **Project Metadata** section, add the following:
 
