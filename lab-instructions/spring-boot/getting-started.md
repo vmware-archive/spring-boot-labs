@@ -51,13 +51,13 @@ Completed Form:
 ![Spring Initializr](resources/images/spring-initializr-complete.png "Spring Initializr")
 
 
-5) Click the Generate Project button. Your browser will download a zip file. Unpack that zip file into the repos directory ($REPOS_HOME).
+5) Click the Generate Project button. Your browser will download a zip file. Unpack that zip file into the repos directory (`$REPOS_HOME`).  If you don't know what `$REPOS_HOME` is then go back and do the [setup](../setup.md).
 
 6) Import the project’s pom.xml into your editor/IDE of choice.
 
 **STS Import Help**:
 
-Select File > Import... Then select Maven > Existing Maven Projects. On the Import Maven Projects page, browse to your `$REPOS_HOME/hello-spring-boot` (e.g. ~/repos/hello-spring-boot).
+Select File > Import... Then select Maven > Existing Maven Projects. On the Import Maven Projects page, browse to your `$REPOS_HOME/hello-spring-boot` (e.g. `~/repos/hello-spring-boot`).
 
 ### Add an Endpoint
 
