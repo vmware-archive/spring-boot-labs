@@ -53,7 +53,7 @@ Completed Form:
 
 5) Click the Generate Project button. Your browser will download a zip file. Unpack that zip file into the repos directory (`$REPOS_HOME`).  If you don't know what `$REPOS_HOME` is then go back and do the [setup](../setup.md).
 
-6) Import the project’s pom.xml into your editor/IDE of choice.
+6) Import the project’s `pom.xml` into your editor/IDE of choice.
 
 **STS Import Help**:
 
